@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "name": "C-Programming"
+    },
+    {
+      "id": "02",
+      "name": "Graphics-Design"
+    },
+    {
+      "id": "03",
+      "name": "Ielts-Band score-8"
+    },
+    {
+      "id": "04",
+      "name": "AutoCad"
+    },
+    {
+      "id": "05",
+      "name": "Web-Design"
+    },
+    {
+      "id": "06",
+      "name": "Robotics"
+    },
+    {
+      "id": "07",
+      "name": "Data-science"
+    },
+    {
+      "id": "08",
+      "name": "All"
+    }
+  ]
