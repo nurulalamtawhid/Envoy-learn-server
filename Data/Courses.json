@@ -1,0 +1,118 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "C-programming",
+        "thumbnail_url": "",
+        "image_url": "https://image.shutterstock.com/image-illustration/c-abstract-concept-blue-text-260nw-487518850.jpg",
+        "details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers."
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "02",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Graphics-Design",
+        "thumbnail_url": "",
+        "image_url": "https://image.shutterstock.com/image-vector/vector-modern-abstract-background-260nw-573232969.jpg",
+        "details": "According to the American Institute of Graphic Arts (AIGA), graphic design is defined as “the art and practice of planning and projecting ideas and experiences with visual and textual content.” In other terms, graphic design communicates certain ideas or messages in a visual way. These visuals can be as simple as a business logo, or as complex as page layouts on a website."
+      },
+  
+      {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "03",
+        "rating": { "number": 4.8, "badge": "Excellent" },
+        "total_view": 400,
+        "title": "Ielts-Band-Score -8",
+        "thumbnail_url": "",
+        "image_url": "https://image.shutterstock.com/image-photo/ielts-vocabulary-band-8-9-600w-2202582075.jpg",
+        "details": "The International English Language Testing System (IELTS) is the world’s most popular English language proficiency test for higher education and global migration, More than 11,000 organisations globally trust IELTS, so when you take the test you can be confident that it is recognised by educational institutions, employers, governments and professional bodies around the world.."
+      },
+      {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "04",
+        "rating": { "number": 4.3, "badge": "Excellent" },
+        "total_view": 400,
+        "title": "Autocad",
+        "thumbnail_url": "",
+        "image_url": "https://image.shutterstock.com/image-photo/designer-working-on-cad-blueprint-260nw-256427656.jpg",
+        "details": "If we had to define what AutoCAD is in a few words, we would say that it is a CAD-type software oriented to drawing and modeling in 2D and 3D. It allows the creation and modification of geometric models with an almost infinite capacity to develop all types of structures and objects,This ability to work in different fields has made AutoCAD transcend its traditional use in the world of architecture and engineering, to enter the world of graphic and interior design."
+      },
+  
+      {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": false
+        },
+        "category_id": "05",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 980,
+        "title": "Web-design",
+        "thumbnail_url": "",
+        "image_url": "https://image.shutterstock.com/image-photo/web-design-homepage-website-creativity-260nw-515726869.jpg",
+        "details": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development. Web design used to be focused on designing websites for desktop browsers; however, since the mid-2010s, design for mobile and tablet browsers has become ever-increasingly important.A web designer works on the appearance, layout, and, in some cases, content of a website. Appearance, for instance, relates to the colors, font, and images used. Layout refers to how information is structured and categorized. A good web design is easy to use, aesthetically pleasing, and suits the user group and brand of the website. Many webpages are designed with a focus on simplicity, so that no extraneous information and functionality that might distract or confuse users appears. As the keystone of a web designer’s output is a site that wins and fosters the trust of the target audience, removing as many potential points of user frustration as possible is a critical consideration."
+      },
+      {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": false
+        },
+        "category_id": "06",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 980,
+        "title": "Robotics",
+        "thumbnail_url": "",
+        "image_url": "https://image.shutterstock.com/image-photo/antique-vintage-retro-robot-tin-260nw-710379334.jpg",
+        "details": "Robotics is an interdisciplinary branch of computer science and engineering.[1] Robotics involves design, construction, operation, and use of robots. The goal of robotics is to design machines that can help and assist humans. Robotics integrates fields of mechanical engineering, electrical engineering, information engineering, mechatronics, electronics, bioengineering, computer engineering, control engineering, software engineering, mathematics, etc.Robotics develops machines that can substitute for humans and replicate human actions. Robots can be used in many situations for many purposes, but today many are used in dangerous environments (including inspection of radioactive materials, bomb detection and deactivation), manufacturing processes, or where humans cannot survive (e.g. in space, underwater, in high heat, and clean up and containment of hazardous materials and radiation). Robots can take any form, but some are made to resemble humans in appearance. This is claimed to help in the acceptance of robots in certain replicative behaviors which are usually performed by people. Such robots attempt to replicate walking, lifting, speech, cognition, or any other human activity. Many of today's robots are inspired by nature, contributing to the field of bio-inspired robotics."
+      },
+  
+      {
+        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "07",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": null,
+        "title": "Data-Science",
+        "thumbnail_url": "",
+        "image_url": "https://image.shutterstock.com/image-vector/data-science-vector-icon-260nw-1054542323.jpg",
+        "details": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data,[1][2] and apply knowledge from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.Data science is a concept to unify statistics, data analysis, informatics, and their related methods in order to understand and analyse actual phenomena with data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge.[3] However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a fourth paradigm of science (empirical, theoretical, computational, and now data-driven) and asserted that everything about science is changing because of the impact of information technology and the data deluge."
+      },
+  
+      {
+        "_id": "a713ee936ff5574273f0f769f5c5b20e",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "03",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 111,
+        "title": "Ielts-Band-Score -9",
+        "thumbnail_url": "",
+        "image_url": "https://image.shutterstock.com/image-photo/concept-ielts-international-english-language-600w-2137253007.jpg",
+        "details": "The highest overall band score possible in the IELTS exam (both IELTS Academic and IELTS General) is 9. If any individual gets their IELTS Band 9 in any of the modules out of the four, then that person is considered an expert in that section.Similarly, an overall high score of IELTS band 9 means that the person is fully proficient in the English language and will face no difficulties in moving to a country where people majorly speak the English language."
+      }
+]
